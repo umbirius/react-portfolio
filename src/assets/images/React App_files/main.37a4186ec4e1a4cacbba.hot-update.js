@@ -1,0 +1,15 @@
+webpackHotUpdate("main",{
+
+/***/ "./src/pages/ContactPage.js":
+/*!**********************************!*\
+  !*** ./src/pages/ContactPage.js ***!
+  \**********************************/
+/*! exports provided: default */
+/***/ (function(module, exports) {
+
+throw new Error("Module build failed (from ./node_modules/babel-loader/lib/index.js):\nSyntaxError: /Users/umbertopalazzo/Dev/portfolio_App/react-portoflio/src/pages/ContactPage.js: Unexpected token (45:77)\n\n\u001b[0m \u001b[90m 43 |\u001b[39m                     \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mButton\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 44 |\u001b[39m\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 45 |\u001b[39m                     {\u001b[36mthis\u001b[39m\u001b[33m.\u001b[39mstate\u001b[33m.\u001b[39memailSent \u001b[33m===\u001b[39m \u001b[36mtrue\u001b[39m \u001b[33m&&\u001b[39m \u001b[33m<\u001b[39m\u001b[33mp\u001b[39m className\u001b[33m=\u001b[39m\u001b[32m\"d-inline\"\u001b[39m}\u001b[0m\n\u001b[0m \u001b[90m    |\u001b[39m                                                                              \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 46 |\u001b[39m                 \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mContent\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 47 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mdiv\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 48 |\u001b[39m         )\u001b[0m\n    at _temp._raise (/Users/umbertopalazzo/Dev/portfolio_App/react-portoflio/node_modules/@babel/parser/lib/index.js:776:17)\n    at _temp.raiseWithData (/Users/umbertopalazzo/Dev/portfolio_App/react-portoflio/node_modules/@babel/parser/lib/index.js:769:17)\n    at _temp.raise (/Users/umbertopalazzo/Dev/portfolio_App/react-portoflio/node_modules/@babel/parser/lib/index.js:737:17)\n    at _temp.unexpected (/Users/umbertopalazzo/Dev/portfolio_App/react-portoflio/node_modules/@babel/parser/lib/index.js:9668:16)\n    at _temp.jsxParseIdentifier (/Users/umbertopalazzo/Dev/portfolio_App/react-portoflio/node_modules/@babel/parser/lib/index.js:4947:12)\n    at _temp.jsxParseNamespacedName (/Users/umbertopalazzo/Dev/portfolio_App/react-portoflio/node_modules/@babel/parser/lib/index.js:4957:23)\n    at _temp.jsxParseAttribute (/Users/umbertopalazzo/Dev/portfolio_App/react-portoflio/node_modules/@babel/parser/lib/index.js:5042:22)\n    at _temp.jsxParseOpeningElementAfterName (/Users/umbertopalazzo/Dev/portfolio_App/react-portoflio/node_modules/@babel/parser/lib/index.js:5063:28)\n    at _temp.jsxParseOpeningElementAt (/Users/umbertopalazzo/Dev/portfolio_App/react-portoflio/node_modules/@babel/parser/lib/index.js:5056:17)\n    at _temp.jsxParseElementAt (/Users/umbertopalazzo/Dev/portfolio_App/react-portoflio/node_modules/@babel/parser/lib/index.js:5088:33)");
+
+/***/ })
+
+})
+//# sourceMappingURL=main.37a4186ec4e1a4cacbba.hot-update.js.map
